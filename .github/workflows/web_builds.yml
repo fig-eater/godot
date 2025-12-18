@@ -1,6 +1,5 @@
 name: 🌐 Web Builds
-on:
-  workflow_call:
+on: workflow_dispatch
 
 # Global Settings
 env:
